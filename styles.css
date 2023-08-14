@@ -4,7 +4,7 @@ body {
 
 .heading,
 .list,
-li a {
+a {
     color: rgb(28, 187, 254);
     /* background-color: antiquewhite; */
 
