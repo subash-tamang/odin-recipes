@@ -1,22 +1,30 @@
 body {
     font-family: Verdana, Helvetica, sans-serif;
+    background-color: rgb(239, 224, 205);
 }
 
 .heading,
 .list,
-a {
+a, 
+p {
     color: rgb(28, 187, 254);
     /* background-color: antiquewhite; */
+    font-size: 20px;
+    font-weight: 700;
 
 }
 
 .heading {
     color: blueviolet;
     background-color: rgb(100, 237, 105);
+    font-size: 30px;
+    font-weight: 900;
 }
 
 .heading.sub {
     color: palevioletred;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 /* .heading.list li a {
