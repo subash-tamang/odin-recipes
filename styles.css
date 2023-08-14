@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+.heading,
+.list,
+li a {
+    color: rgb(28, 187, 254);
+    /* background-color: antiquewhite; */
+
+}
+
+.heading {
+    color: blueviolet;
+    background-color: rgb(100, 237, 105);
+}
+
+/* .heading.list li a {
+    color: rgb(255, 249, 72);
+}  */
