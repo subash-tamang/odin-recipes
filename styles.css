@@ -15,6 +15,10 @@ a {
     background-color: rgb(100, 237, 105);
 }
 
+.heading.sub {
+    color: palevioletred;
+}
+
 /* .heading.list li a {
     color: rgb(255, 249, 72);
 }  */
