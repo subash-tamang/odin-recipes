@@ -41,3 +41,10 @@ img {
 a {
     text-decoration: none;
 }
+
+li {
+    display: inline-block;
+    border: 2px solid rgb(20, 190, 26);
+    padding: 5px;
+    margin: 15px;
+}
