@@ -16,7 +16,7 @@ p {
 }
 
 .list {
-    width: 1000px;
+    max-width: 1000px;
     border: 2px solid beige;
     margin: 0 auto;
     text-align: center;
