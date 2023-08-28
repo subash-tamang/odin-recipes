@@ -37,3 +37,7 @@ img {
     width: 250px;
     height: autp;
 }
+
+a {
+    text-decoration: none;
+}
