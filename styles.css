@@ -11,7 +11,15 @@ p {
     /* background-color: antiquewhite; */
     font-size: 20px;
     font-weight: 700;
+    
 
+}
+
+.list {
+    width: 1000px;
+    border: 2px solid beige;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .heading {
@@ -40,6 +48,7 @@ img {
 
 a {
     text-decoration: none;
+    
 }
 
 li {
@@ -47,4 +56,5 @@ li {
     border: 2px solid rgb(20, 190, 26);
     padding: 5px;
     margin: 15px;
+    
 }
